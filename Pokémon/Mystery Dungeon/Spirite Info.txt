@@ -1,3 +1,7 @@
 #351.01 - Purple Kecleon from Pokémon Mystery Dungeon Red/Blue.
- - Shiny #01: Same kind of change regular kecleon has when shiny.
- - Shiny #02: Not based on anything 
+ - Shiny #01: Same kind of change regular Kecleon has when shiny.
+ - Shiny #02: Not based on anything.
+#483.02 - Primal Dialga from Pokémon Mystery Dungeon Time/Darkness/Sky.
+ - Shiny #01: Same kind of change regular Dialga has when shiny.
+ - Shiny #02: Not based on anything.
+ - Shiny #03: Based on Arceus.
